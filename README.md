@@ -124,7 +124,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 > EF-PRIME-MD Bot Owner 
 - [efkidgamerdev](https://github.com/efkidgamerdev)
 - Creator and Owner Of EF-PRIME-MD BOT
-> Romeo calyx
+> [Romeo Calyx](https://github.com/RomeoCalyx)
 - helping me with bot plugins and apis 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdwdnhzcGg0enJ5OHpxZHB3NWRjN3pvODgwOXFpZXd0eTFzZmd4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11R5KYi6ZdP8Z2/giphy.gif" alt="Roll Out" width="60%"/>
