@@ -1,3 +1,5 @@
+//don't steal without credit 
+
 import config from '../config.cjs';
 import axios from 'axios';
 
